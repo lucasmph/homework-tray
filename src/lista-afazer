@@ -1,0 +1,9 @@
+VER NO KEEP
+
+select vendedor by email -> ok
+    valida se vendedor já foi cadastrado
+select vendedor by id -> ok
+    verifica se o vendedor existe pra lançae venda e consulta
+retorno correto ->
+    cria vendedor
+    lençar venda
